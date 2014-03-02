@@ -1,6 +1,7 @@
 # PhoneGap Build Starter Application
 
 > A Hello World application to get started with PhoneGap Build.
+
 > Tweaked by JS; next step - attempt to build it!
 
 ## Usage
