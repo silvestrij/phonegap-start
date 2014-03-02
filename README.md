@@ -4,6 +4,8 @@
 
 > Tweaked by JS; next step - attempt to build it!
 
+> n.b. Alas, contrary to all appearances, even PhoneGap Build requires an Apple Dev. acct./key.
+
 ## Usage
 
 ### Run Application
